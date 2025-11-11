@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="no">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Biloversikt</title>
+  <link rel="stylesheet" href="nettside.css" />
+</head>
+<body>
+  <header>
+    <div class="header-container">
+      <div class="logo">
+        🚗
+      </div>
+      <div>
+        <h1>Biloversikt</h1>
+        <p>Utforsk vårt utvalg av biler i ulike kategorier</p>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section class="filter-section">
+      <h2>Filtrer etter kategori</h2>
+      <div class="buttons" id="categoryButtons"></div>
+    </section>
+
+    <section class="cars-grid" id="carsGrid"></section>
+
+    <div class="no-results" id="noResults" style="display:none;">
+      Ingen biler funnet i denne kategorien.
+    </div>
+  </main>
+
+  <footer>
+    © 2024 Biloversikt. Prisene er veiledende og kan variere.
+  </footer>
+
+  <script src="nettside.js"></script>
+</body>
+</html>
