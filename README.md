@@ -11,9 +11,11 @@
 - Css
 - Js
 - VS code
+- React
 - GitHub
 
 ## Plan
 - Lage HTML-struktur
 - Style med CSS
 - Laste opp til GitHub
+- Gjøre om til en react nettside.
