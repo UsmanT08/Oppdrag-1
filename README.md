@@ -29,16 +29,12 @@ Nettsiden handler om biler, og demonstrerer grunnleggende bruk av React-komponen
 
 Prosjektet viser hvordan man setter opp en React-applikasjon, organiserer komponenter og bygger en enkel nettside med fokus på presentasjon og struktur.
 
----
-
 # Funksjonalitet
 - Viser informasjon om biler
 - Bruk av React-komponenter
 - Enkel komponentstruktur og layout
 - Grunnleggende styling
 - Forberedt for videre utvikling
-
----
 
 # Komme i gang
 
@@ -55,3 +51,12 @@ npm install
 
 # Start utviklingsserveren
 npm start
+
+# Hva har jeg lært? 
+Jeg har lært hvordan man gjør om HTML, CSS og JS om til react. Jeg har også lært de forskjellige delene til react som for eksempel kompnenter, data osv.
+
+# Hva har vært vanskelig?
+Det jeg mener har vært vanskeligst er at jeg måtte gjøre om HMTL, CSS og JS om til react. Jeg synes også det var vanskelig å måtte lære seg alle de forskjellige funksjonene og hva de gjør i react. Det som også har vært vanskelig var å få alt i react til å funke som det skal og å starte web appen.
+
+# Hva kunne ha vært bedre? 
+Det jeg mener kunne ha vært litt bedre var om vi ikke gikk gjennom så mye informasjon på så kort tid. Det førte til at jeg og andre mente det var litt vanskelig å holde følge.
